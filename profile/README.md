@@ -1,6 +1,6 @@
 👋 Hi there!
 
-Welcome to our little corner of chaos — we’re a group of Computer Science students from The University of the West Indies.
+Welcome to where future KFC workers gather, we’re a group of Computer Science students from The University of the West Indies.
 We built this organization to collaborate on projects, learn new things, and occasionally question our life choices during debugging sessions.
 
 🙋‍♀️ About Us
